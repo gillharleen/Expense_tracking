@@ -4,4 +4,4 @@
   - Implement functions to view existing expense records
   - Implement functions to summarize expenses by category or date
   - Design and build a simple user interface
-  - Add
+  - Add persistence by saving and loading data to a file
