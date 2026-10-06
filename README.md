@@ -1,3 +1,6 @@
+
+
+
 - Set up the Python environment and install necessary libraries
   - Define the data structure for expense records
   - Implement functions to add new expense records
